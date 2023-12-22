@@ -1,2 +1,0 @@
-# webinar
-Git demo
